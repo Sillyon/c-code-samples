@@ -1,0 +1,11 @@
+products.txt içerisinde ilk satýr ürün sayýsý,
+sonraki satýrlar ürünlerin ismini içerir.
+
+Bu programda frekansý en fazla olan ürünler arasýndan,
+alfabetik sýraya göre en arkada olan ürün
+önerilmek üzere geri döndürülür.
+
+
+
+not:	products.txt dosyasýný düzenledikten sonra da boþ satýr býrakmayý unutmayýn.
+	Bu dosya okumasýnda hep karþýlaþtýðým bir sorun.
